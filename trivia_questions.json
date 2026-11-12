@@ -1,0 +1,242 @@
+{
+    "Ethics": {
+        "1": {
+            "question": "Which action is an example of ethical business behavior?",
+            "choices": [
+                "Being honest with customers",
+                "Hiding product safety information",
+                "Misleading workers about wages",
+                "Ignoring community concerns"
+            ],
+            "answer": "Being honest with customers",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "A company discovers that an advertisement makes a misleading claim. What is the most ethical next step?",
+            "choices": [
+                "Leave the advertisement unchanged",
+                "Correct the claim and explain the change",
+                "Blame the customer",
+                "Delete all customer feedback"
+            ],
+            "answer": "Correct the claim and explain the change",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "In your own words, explain one way a company can demonstrate transparency when a product or decision negatively affects a community.",
+            "accepted_answers": [
+                "share information honestly",
+                "communicate openly",
+                "disclose the impact and explain how it will be addressed"
+            ],
+            "answer": "A strong response explains that the company communicates honestly, shares relevant evidence, acknowledges harm, and describes corrective action.",
+            "type": "typed"
+        }
+    },
+    "Legal": {
+        "1": {
+            "question": "What does it generally mean when a company follows labor laws?",
+            "choices": [
+                "It follows rules protecting workers",
+                "It can ignore workplace safety",
+                "It never has to pay taxes",
+                "It can change laws on its own"
+            ],
+            "answer": "It follows rules protecting workers",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "A company learns that its facility is violating an environmental regulation. What should it do?",
+            "choices": [
+                "Hide the violation",
+                "Continue operating without changes",
+                "Address the violation and follow reporting requirements",
+                "Delete the inspection records"
+            ],
+            "answer": "Address the violation and follow reporting requirements",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "Name one type of public regulation that can affect how a company operates, and explain why it matters.",
+            "accepted_answers": [
+                "environmental regulations protect air water and land",
+                "labor laws protect workers",
+                "consumer protection laws protect customers",
+                "safety regulations reduce harm"
+            ],
+            "answer": "Examples include environmental regulations, labor laws, consumer protection laws, and workplace safety rules. The explanation should connect the rule to the people or environment it protects.",
+            "type": "typed"
+        }
+    },
+    "PHL Outreach": {
+        "1": {
+            "question": "What is one example of a company supporting its local Philadelphia community?",
+            "choices": [
+                "Partnering with a neighborhood school",
+                "Avoiding all local partnerships",
+                "Removing public resources",
+                "Refusing to listen to residents"
+            ],
+            "answer": "Partnering with a neighborhood school",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "Which piece of evidence would best help evaluate a company's local community outreach?",
+            "choices": [
+                "A list of local programs and participation outcomes",
+                "A product color chart",
+                "An unrelated celebrity endorsement",
+                "A company's office furniture inventory"
+            ],
+            "answer": "A list of local programs and participation outcomes",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "Describe one question you would ask Philadelphia residents to determine whether a company's outreach is meeting community needs.",
+            "accepted_answers": [
+                "what needs are not being met",
+                "how has the program helped the community",
+                "what would you change about the company's community program"
+            ],
+            "answer": "A strong response asks residents about their priorities, whether the program is accessible, what outcomes they have experienced, or what should change.",
+            "type": "typed"
+        }
+    },
+    "Philanthropic": {
+        "1": {
+            "question": "Which activity is an example of corporate philanthropy?",
+            "choices": [
+                "Donating funds to a community nonprofit",
+                "Increasing hidden fees",
+                "Reducing product safety testing",
+                "Withholding employee pay"
+            ],
+            "answer": "Donating funds to a community nonprofit",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "Which information would make a company's charitable giving report more useful?",
+            "choices": [
+                "The amount donated, recipients, and outcomes",
+                "Only the company's slogan",
+                "A list of unrelated products",
+                "The names of executives' favorite movies"
+            ],
+            "answer": "The amount donated, recipients, and outcomes",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "Explain the difference between a one-time donation and a long-term philanthropic partnership.",
+            "accepted_answers": [
+                "a long term partnership provides ongoing support",
+                "a one time donation happens once while a partnership continues",
+                "a partnership includes sustained collaboration and support"
+            ],
+            "answer": "A one-time donation is a single contribution. A long-term partnership involves continued support, collaboration, and often shared goals or measurable outcomes.",
+            "type": "typed"
+        }
+    },
+    "Economic": {
+        "1": {
+            "question": "Which is an example of a company's economic impact?",
+            "choices": [
+                "Creating jobs and paying employees",
+                "Changing the weather",
+                "Writing a movie script",
+                "Choosing a team mascot"
+            ],
+            "answer": "Creating jobs and paying employees",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "A company hires local workers and purchases supplies from nearby businesses. What is one possible community benefit?",
+            "choices": [
+                "More money may circulate in the local economy",
+                "Local businesses must close",
+                "The community loses all employment",
+                "The company no longer has customers"
+            ],
+            "answer": "More money may circulate in the local economy",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "Identify two ways a company can affect the economic well-being of a neighborhood.",
+            "accepted_answers": [
+                "jobs and local purchasing",
+                "employment and wages",
+                "hiring local workers and supporting local businesses",
+                "wages taxes and local investment"
+            ],
+            "answer": "Possible answers include job creation, wages and benefits, local purchasing, taxes, investment, and effects on nearby businesses.",
+            "type": "typed"
+        }
+    },
+    "Clams": {
+        "1": {
+            "question": "When evaluating a claim made by a company, what should you look for first?",
+            "choices": [
+                "Evidence that supports the claim",
+                "The largest font on the website",
+                "The number of colors in the logo",
+                "An unrelated social media trend"
+            ],
+            "answer": "Evidence that supports the claim",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "A company says its product is environmentally friendly. Which source would best help you evaluate that claim?",
+            "choices": [
+                "A credible report with methods and supporting data",
+                "An anonymous comment with no details",
+                "A celebrity photo",
+                "A product slogan"
+            ],
+            "answer": "A credible report with methods and supporting data",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "Choose one claim made by a company you researched. Explain what evidence would support or challenge that claim.",
+            "accepted_answers": [
+                "compare the claim with credible data",
+                "use independent research and company reports",
+                "check sources methods and measurable outcomes"
+            ],
+            "answer": "A strong response identifies a specific claim and explains how credible, relevant evidence—such as independent research, public records, data, or a company report—could verify or challenge it.",
+            "type": "typed"
+        }
+    },
+    "Evident Scenario": {
+        "1": {
+            "question": "A company report includes a chart showing that donations increased. What is the chart?",
+            "choices": [
+                "A piece of evidence",
+                "A legal contract",
+                "A customer complaint",
+                "A company logo"
+            ],
+            "answer": "A piece of evidence",
+            "type": "multiple_choice"
+        },
+        "2": {
+            "question": "A company says its new program improved student outcomes. Which additional information would help test this statement?",
+            "choices": [
+                "Before-and-after results and how they were measured",
+                "The program's color scheme",
+                "The CEO's favorite subject",
+                "A list of office locations only"
+            ],
+            "answer": "Before-and-after results and how they were measured",
+            "type": "multiple_choice"
+        },
+        "3": {
+            "question": "A company claims that its community program is successful, but residents report that they have not seen any benefits. What evidence would you gather before reaching a conclusion?",
+            "accepted_answers": [
+                "interview residents and review program outcomes",
+                "compare company data with community feedback",
+                "collect independent data and community testimony"
+            ],
+            "answer": "A strong response compares multiple sources, such as resident interviews, participation records, measurable outcomes, independent reporting, and the company's own data.",
+            "type": "typed"
+        }
+    }
+}
