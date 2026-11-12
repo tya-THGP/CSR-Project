@@ -1,7 +1,5 @@
 """
 CSR GENIUS CHALLENGE
-A beginner-friendly Tkinter trivia game based on the supplied PowerPoint mockup.
-
 Run:
     python csr_genius_trivia.py
 
@@ -36,20 +34,16 @@ GREEN = "#16803C"
 RED = "#B42318"
 BLUE = "#244B70"
 
-# These labels follow the supplied PowerPoint. "Clams" and "Evident Scenario"
-# may be typos in the mockup; edit them here and in trivia_questions.json
-# if you intended "Claims" and "Evidence Scenario".
 CATEGORIES = [
     "Ethics",
     "Legal",
     "PHL Outreach",
     "Philanthropic",
     "Economic",
-    "Clams",
-    "Evident Scenario",
+    "Claims",
+    "Evidence Scenario",
 ]
 
-# The PowerPoint shows these three values (it does not show $900).
 LEVEL_VALUES = {1: 300, 2: 600, 3: 1200}
 
 # ----------------------------- DEMO QUESTIONS ----------------------------
